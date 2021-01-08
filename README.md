@@ -1,12 +1,11 @@
 
 <img src="profileheader.gif" width="1640px" height="100px">
-<p><em>Computer Science Engineering Student at <a href="http://www.unb.br">Presidency University</a></br>
   
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felixfaisal&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -24,8 +23,5 @@ const thai = {
 }
 ```
 
-<img src="" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
