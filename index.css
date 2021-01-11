@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+body{
+    margin: 0;
+    font-family: 'Righteous', cursive;
+}
+.grid-container{
+    display: grid;
+    height: 100vh;
+    width: auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+    'Nav Nav Nav Nav'
+    'Heading Heading Heading Heading'
+    'Sub Sub Sub Sub'
+    'Button Button Button Button';
+    overflow: hidden;
+    background-color: black;
+}
+.Intro-Heading{
+    grid-area: Heading;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Intro-Heading h1{
+    font-size: 100px;
+}
+.Intro-SubHeading{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    grid-area: Sub;
+    margin-top: -20px;
+    color: white;
+}
+.Intro-SubHeading h1{
+    color: magenta;
+    font-size: 50px;
+
+}
+.Intro-Button{
+    grid-area: Button;
+}
+.grid-container2{
+    display: grid;
+    background-color: aliceblue;
+    height: 100vh;
+    width: auto;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 0.2fr 1fr 1fr 1fr;
+    grid-template-areas: 
+    'Headings Headings Headings Headings'
+    'Post Post Post Post'
+    'Post Post Post Post'
+    'Post Post Post Post';
+}
+   
+.headwrapper{
+    display: flex;
+    justify-content: center;
+    grid-area: Headings;
+    font-size: 20px;
+}
+.autofiting{
+    grid-area: Post;
+    display: flex;
+    justify-content: center;
+}
+
+.autofitting-inner{
+    display: flex;
+    flex-direction: column;
+}
+.experience-grid{
+    display: grid;
+    background-color: #E8E8E8;
+    height: 200px;
+    width: 1200px;
+    margin: 5px;
+    margin-left: 5px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 0.5fr 0.5fr 2.5fr 0.5;
+    grid-template-areas: 
+    'title title title title'
+    'org org org org'
+    'duration duration duration duration'
+    'desc desc desc desc'
+    'tech tech tech tech'
+    ;
+}
+.title{
+    margin-left: 10px;
+    margin-top: -10px;
+    grid-area: title;
+    font-size: 15px;
+}
+.org{
+    margin-left: 10px;
+    margin-top: -40px;
+    grid-area: org;
+}
+.duration{
+    margin-left: 10px;
+    margin-top: -35px;
+    grid-area: duration;
+}
+.description{
+    margin-left: 10px;
+    margin-top: -25px;
+    grid-area: desc;
+}
+.technology{
+    margin-left: 10px;
+    grid-area: tech;
+    color: red;
+}
