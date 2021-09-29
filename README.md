@@ -17,5 +17,7 @@ optimum user experience. Part of various open source programs and transitioning 
 # Experience 
 
 ## Linux Foundation FD.IO - Rust VPP Intern 
-### June 2021 - September 2021 - Remote 
+
+`June 2021 - September 2021 - Remote`
+ 
 - FD.IO is an open source dataplane developed by **Cisco** 
