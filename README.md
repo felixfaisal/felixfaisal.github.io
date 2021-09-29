@@ -14,3 +14,8 @@ of techniques geared toward
 optimum user experience. Part of various open source programs and transitioning into systems programming using <b>Rust</b>. 
 </p>
 
+# Experience 
+
+## Linux Foundation FD.IO - Rust VPP Intern 
+### June 2021 - September 2021 - Remote 
+- FD.IO is an open source dataplane developed by **Cisco** 
