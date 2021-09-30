@@ -18,8 +18,9 @@ optimum user experience. Part of various open source programs and transitioning 
 
 <h3>Linux Foundation FD.IO - Rust VPP Intern</h3>
 June 2021 - September 2021 - Remote<br>
-- FD.IO is an open source dataplane developed by <b>Cisco<b>
-
+<ul>
+<li>FD.IO is an open source dataplane developed by <b>Cisco<b>
+  </ul>
  
 <h2 align="center">Activity</h2><br>
 <p align="center">
